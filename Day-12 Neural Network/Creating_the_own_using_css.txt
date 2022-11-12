@@ -1,1 +1,2 @@
+1st we need need to create the model binary classification 
 
