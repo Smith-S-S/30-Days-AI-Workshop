@@ -1,0 +1,6 @@
+for this we need to collect the data 
+and separate it in 70% to train 
+20 for validation 
+10 for testing 
+
+In this we ca creating the (1 calass network) means yes or no
