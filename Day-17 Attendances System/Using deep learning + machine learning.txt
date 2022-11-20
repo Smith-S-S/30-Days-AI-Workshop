@@ -1,0 +1,3 @@
+1st we find the the face or notusing harcascade
+and we detect the face and change to encodings
+and we pass that to machine learning algorithm 
