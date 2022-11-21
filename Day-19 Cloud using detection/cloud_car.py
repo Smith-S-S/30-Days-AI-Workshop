@@ -4,7 +4,7 @@ import requests
 import cv2
 #from Secret_Key import key
 
-SECRET_KEY = 'sk_203d0c3dd0ff6bb769da7167'
+SECRET_KEY = 'sk_DEMODEMODEMODEMODEMODEMO' #put ur key here
 
 
 IMAGE_PATH = 'images/car.jpg'
