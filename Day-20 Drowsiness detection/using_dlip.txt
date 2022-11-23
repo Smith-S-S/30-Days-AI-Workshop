@@ -1,1 +1,6 @@
 using dlip finding the face and the encodes of the eyes
+Get the shapePredictor:
+shapePredictor='shape_predictor_68_face_landmarks.dat'
+down link
+
+https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
