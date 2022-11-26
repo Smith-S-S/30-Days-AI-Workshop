@@ -1,0 +1,2 @@
+checking the dataset with various ml algorithms in supervised learning and
+seeing their accuracy
