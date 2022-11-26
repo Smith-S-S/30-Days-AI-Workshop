@@ -1,0 +1,3 @@
+we are using ML to detect the fake news using PASSIVE AGGRESSIVE CLASSIFIER algorithm and Tfid for features extraction
+Dataset from👇
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
