@@ -1,0 +1,3 @@
+Here we are taking the data from the website and extracting the tags and 
+removing the local words (is,was,that,the,there,etc)
+And count the tag words
